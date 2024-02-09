@@ -4,7 +4,7 @@ import './App.css'
 const questions = [
   {
     img: "https://img.joomcdn.net/1092800c63c71d94a3d26cd247ee0a288699a44a_original.jpeg",
-    title: 'с каким персонажем у меня совпадает рост?',
+    title: 'с каким персонажем у меня совпадает рост???',
     variants: ['леви(160)', 'микаса(176)', 'армин(163)','эрен(172)'],
     correct: 0,
   },
